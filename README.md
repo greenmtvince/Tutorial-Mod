@@ -41,7 +41,7 @@ Don't worry about the commands like pause or emote.  We'll get to that at a late
 
 Save your content.json file in your working directory, and then replace the content.json file in your mod directory with the modified content.json from your working directory.  Go ahead and fire up SDV and use the save we created earlier.  You'll have to go through the intro with Kent and enter the debug commands to get 4 hearts and time warp to noon again before you head into town and watch the changes you've made take place.
 
-##Tweaking the portraits, emotes, and movements
+## Tweaking the portraits, emotes, and movements
 I won't go into too much detail now, but if you make it this far and want to dive in more, the Stardew Valley Wikki modding guide has two great resources:
 [Modding Dialogue](https://stardewvalleywiki.com/Modding:Dialogue) - this will help understand the structure of conversations and how to change the portraits.
 [Modding Events](https://stardewvalleywiki.com/Modding:Event_data) - this gives you the complete library of commands you can use and explains things like emote and jump 
