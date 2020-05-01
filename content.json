@@ -1,0 +1,12 @@
+{
+    "Format": "1.13.0",
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Town",
+            "Entries": {
+                "31360001/w sunny/f Kent 1000 Vincent 1000/t 1200 1700": "ragtime/13 64/farmer 14 56 2 Kent 8 64 1 Vincent 10 64 3/skippable/emote Vincent 16/emote Kent 8/pause 500/speak Vincent \"Dad shouldn't we have some dialogue...$s\"/pause 500/speak Kent \"Hannah has to write some for us$s\"/pause 500/speak Vincent \"I bet she has something swell in mind!$h\"/move Vincent 0 2 2/move Vincent -2 0 0/speak Vincent \"She did say any mod that pays attention to me is worth writing!$h\"/move Kent 0 0 2/jump Kent/speak Kent \"Vincent, you're breaking the fourth wall. What happens to Sam when he breaks eggs?\"/emote Vincent 8/speak Vincent \"He has to clean them up? What does this have to do with walls? $n\"/speak Kent \"You'll understand when you're older, son.  It's a comedic device not to be used lightly.$u\"/pause 500/emote Vincent 28/speak Vincent \"Is this about that time you turned my sister into a dove? $a\"/emote Kent 16/jump Kent/speak Kent \"That never happened. You never had a sister.$u\"/speak Kent \"How 'bout we see if Gus has some ice cream?$h\"/pause 500/emote Vincent 32/speak Vincent \"I'd be so psyched I'd totally forget this conversation even happened!\"/end"
+            }
+        }
+    ]
+ }

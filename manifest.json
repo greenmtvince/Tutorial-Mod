@@ -1,0 +1,13 @@
+{
+  "Name": "Father and Son",
+  "Author": "HannahVictoria",
+  "Version": "1.0.0",
+  "Description": "Introduction to modding for HV that goes deeper into Kent and Vincent's relationship.",
+  "UniqueID": "HannahVictoria.FatherSon",
+  "MinimumApiVersion": "3.2.0",
+  "UpdateKeys": ["Nexus: XXXX"],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", 
+    "MinimumVersion": "1.9.2"
+  }
+}
