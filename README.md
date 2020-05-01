@@ -9,7 +9,7 @@ First thing is first.  We want to run the mod to see what we're working with.
 
  1. Make sure you have [SMAPI for developers](https://github.com/Pathoschild/SMAPI/releases/download/3.5/SMAPI-3.5.0-installer-for-developers.zip) and Content Patcher Installed. The Dev SMAPI has the more verbose console and lets us debug our mods.
  2. Download this repository as a zip and unpack it to a working directory on your Hard Drive.  *If you can fork and create a local repo, more power to you, but this tutorial assumes you haven't worked with software version control.*
- 3. Within the folder you'll have a zip file called [CP] Hannah Mod.  This is the actual packaged mod.  Unzip this to you're stardew valley Mods folder.  *Something like C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods*
+ 3. Within the folder you'll have a zip file called [CP] Hannah Mod.  This is the actual packaged mod.  Unzip this to your Stardew Valley Mods folder.  *Something like C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods*
  4. Create a new save file.  We'll be doing some stuff that will break the game a bit when testing, so you don't really want to mess up that year 5 iridium ancient fruit wine setup that's raking in oodles of g.
  5. You may need to go into town and have a conversation with Vincent to register him as a character.  After that type the following commands into the SMAPI console window and hit enter after each command:
 	 1. debug day 28
